@@ -1,4 +1,4 @@
 # spotify-clone
 spotify clone 
 
-made with html css js.
+made with html, css and js.
